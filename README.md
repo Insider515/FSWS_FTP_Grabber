@@ -9,7 +9,7 @@
 4. Моживiсть видалення файлiв
 5. Система аутентифікації на одного користувача без використання бази даних (за допомогою сесій)
 
-Конфiгурацiя зберігається у файлi config.php
+Конфiгурацiя зберігається у файлi /assets/env/config.php
 
 ![FSWS_FTP_Grabber](https://github.com/Insider515/FSWS_FTP_Grabber/blob/master/preview/previewImage.png?raw=true)
 
